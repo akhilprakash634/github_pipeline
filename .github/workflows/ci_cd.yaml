@@ -1,6 +1,6 @@
 
 name: test-ci-cd
-run-name: test ci/cd pipeline for docke build and push
+run-name: test ci/cd pipeline for docker build and push
 
 on:
   push:
